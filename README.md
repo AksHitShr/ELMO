@@ -1,9 +1,6 @@
 ## Introduction to NLP
-### Akshit Sharma
 
 This assignment is based on implementation of the ELMo model for contextual word embeddings. First, the model has been trained on the next word prediction task using a news classification dataset (forward and backward models seperately) and then a downstream LSTM model is trained for news (text) classification task making use of these contextual embeddings.
-
-#### Trained separate models for forward and backward input sentences (for ELMo).
 
 #### Files included:
 
